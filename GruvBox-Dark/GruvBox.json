@@ -1,0 +1,22 @@
+{
+        "name": "Dracula Flat",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#689d6a",
+          "primary-color": "#689d6a",
+          "warning-color": "#fabd2f",
+          "sidebar-color": "#1d2021",
+          "roomlist-background-color": "#282828",
+          "roomlist-text-color": "#d5c4a1",
+          "roomlist-text-secondary-color": "#d5c4a1",
+          "roomlist-highlights-color": "#c5560d",
+          "roomlist-separator-color": "#00000000",
+          "timeline-background-color": "#282828",
+          "timeline-text-color": "#c5560d",
+          "secondary-content": "#c5560d",
+          "tertiary-content": "#c5560d",
+          "timeline-text-secondary-color": "#ebdbb2",
+          "timeline-highlights-color": "#cd590d",
+          "reaction-row-button-selected-bg-color": "#fe8019"
+        }
+}
