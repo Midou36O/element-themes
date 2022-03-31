@@ -1,9 +1,9 @@
 {
-        "name": "Dracula Flat",
+        "name": "GruvBox Dark",
         "is_dark": true,
         "colors": {
           "accent-color": "#689d6a",
-          "primary-color": "#689d6a",
+          "primary-color": "##d4be98",
           "warning-color": "#fabd2f",
           "sidebar-color": "#1d2021",
           "roomlist-background-color": "#282828",
